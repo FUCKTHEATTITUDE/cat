@@ -8,6 +8,8 @@ Main source is here [main source](https://github.com/sandy1709/catuserbot) fork 
 
 fork this repo and [main repo](https://github.com/sandy1709/catuserbot) and click on deploy
 
+https://github.com/sandy1709/nekopack.git
+
 
 ## credits
    - [@midnightmadwalk](https://t.me/midnightmadwalk)
